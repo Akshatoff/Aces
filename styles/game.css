@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Coming+Soon&family=Montserrat&family=Montserrat+Alternates&family=Open+Sans&family=Poppins&family=Roboto&display=swap');
+
+
+/* font-family: 'Bebas Neue', sans-serif;
+font-family: 'Coming Soon', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --color:#f6cf57;
+    --color2:#F62D14;
+    --color1:#9e1604;
+    --color2:#ED0A80;
+    --color3:#50AFF8;
+    --color4:#F58300;
+
+}
+
+body {
+    background: #080808;
+}
