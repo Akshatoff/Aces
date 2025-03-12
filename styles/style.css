@@ -13,6 +13,7 @@ font-family: 'Roboto', sans-serif; */
   padding: 0;
   box-sizing: border-box;
   transition: all 200ms ease-in-out;
+
 }
 
 :root {
@@ -47,6 +48,7 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: var(--color);
 }
+
 
 .navlink {
   text-decoration: none;
